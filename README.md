@@ -1,6 +1,6 @@
 # Obfuscated_Nevermore
 A terminal-based arcade shooter written in pure C ( Obfuscated )
-# 🐦 Raven Game
+
 
 *A terminal-based arcade shooter written in pure C, featuring a flying raven, enemy birds, and devastating Caw-Blasts.*
 
