@@ -1,5 +1,6 @@
 # Obfuscated_Nevermore
 A terminal-based arcade shooter written in pure C ( Obfuscated )
+<img width="656" height="462" alt="Screenshot 2026-06-18 051807" src="https://github.com/user-attachments/assets/817a1621-c6ad-4d63-8a38-92ae8f5e92da" />
 
 
 *A terminal-based arcade shooter written in pure C, featuring a flying raven, enemy birds, and devastating Caw-Blasts.*
